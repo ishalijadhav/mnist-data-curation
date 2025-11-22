@@ -33,7 +33,7 @@ You can run this notebook directly in Google Colab or view it on GitHub.
 
 The final MNIST dataset (with the extra IDK label) is published on HuggingFace:
 
-👉 [https://huggingface.co/datasets/MJ3099/mnist-curated-idk](https://huggingface.co/datasets/MJ3099/mnist-curated-idk)
+👉 Link
 
 The dataset follows the **ImageClassificationDirectoryTree** layout, with one directory per class:
 
